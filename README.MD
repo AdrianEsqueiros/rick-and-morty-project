@@ -1,7 +1,9 @@
 # Rick and Morty Human Character Finder
 
 Este es un proyecto de frontend desarrollado en Next.js con Material UI y backend desarrollado en NestJs con GraphQl para ayudar a Rick and Morty a identificar a los humanos en su universo. Utiliza una API de GraphQL de Rick and Morty para mostrar una lista de personajes cuya especie sea "humano."
-
+## Screens
+![alt text](./screen.png)
+![alt text](./screen2.png)
 ## Instrucciones de Uso
 
 A continuación, encontrarás las instrucciones sobre cómo configurar y ejecutar este proyecto en tu entorno local.
